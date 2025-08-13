@@ -8,6 +8,7 @@ public class CommentJava {
         System.out.println("hello java3");
         System.out.println("hello java4");
         */
+        // 컴파일 단계에서 주석은 사라진다
 
     }
 }
